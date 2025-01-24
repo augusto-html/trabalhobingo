@@ -1,2 +1,4 @@
-# trabalhobingo
-Código de um bingo em python - INFOWEB1M 2024
+# Bingo em python - INFOWEB1M
+Andriw Davi G. de Barros & João Augusto C. de Medeiros
+
+Mentor - Alexandre Gomes
